@@ -1,0 +1,4 @@
+[wrap-git]
+directory = filesystem-1.3.2
+url = https://github.com/meson-library/filesystem.git
+revision = v1.3.2
